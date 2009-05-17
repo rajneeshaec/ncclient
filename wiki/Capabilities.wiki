@@ -1,0 +1,12 @@
+#summary Capability support
+
+|| :writable-running || tested ||
+|| :candidate || tested ||
+|| :confirmed-commit || tested ||
+|| :rollback-on-error || tested ||
+|| :startup || in principle ||
+|| :url || tested ||
+|| :validate || tested ||
+|| :xpath || tested ||
+|| :notification || not implemented ||
+|| :interleave || in principle ||
