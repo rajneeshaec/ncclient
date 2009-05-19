@@ -1,12 +1,13 @@
 #summary Capability support
+#labels Featured
 
-|| :writable-running || tested ||
-|| :candidate || tested ||
-|| :confirmed-commit || tested ||
-|| :rollback-on-error || tested ||
-|| :startup || tested ||
-|| :url || tested ||
-|| :validate || tested ||
-|| :xpath || tested ||
-|| :notification || not implemented ||
+|| :writable-running || supported ||
+|| :candidate || supported ||
+|| :confirmed-commit || supported ||
+|| :rollback-on-error || supported ||
+|| :startup || supported ||
+|| :url || supported ||
+|| :validate || supported ||
+|| :xpath || supported ||
+|| :notification || supported ||
 || :interleave || in principle ||
