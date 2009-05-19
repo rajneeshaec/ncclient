@@ -4,7 +4,7 @@
 || :candidate || tested ||
 || :confirmed-commit || tested ||
 || :rollback-on-error || tested ||
-|| :startup || in principle ||
+|| :startup || tested ||
 || :url || tested ||
 || :validate || tested ||
 || :xpath || tested ||
