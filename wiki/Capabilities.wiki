@@ -9,5 +9,5 @@
 || :url || supported ||
 || :validate || supported ||
 || :xpath || supported ||
-|| :notification || supported ||
+|| :notification || not implemented ||
 || :interleave || in principle ||
