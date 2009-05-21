@@ -1,0 +1,9 @@
+#summary Interoperability of NCClient with NETCONF server implementations
+
+== Tested ==
+
+|| *Vendor* || *Product* || *Versions tested* || *Interoperable*  || *Notes* ||
+|| Tail-f || ConfD || 2.8 || Yes || very standards-compliant implementation ||
+|| Cisco || IOS || 12.4 || Yes || poor compliance with standard, but interoperable due to workarounds ||
+|| Juniper || JUNOS  || - || ? || to test ||
+|| liberouter || netopeer || - || ? || to test ||
