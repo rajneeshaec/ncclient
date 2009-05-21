@@ -1,6 +1,5 @@
 #summary Interoperability of NCClient with NETCONF server implementations
-
-== Tested ==
+#labels Featured
 
 || *Vendor* || *Product* || *Versions tested* || *Interoperable*  || *Notes* ||
 || Tail-f || ConfD || 2.8 || Yes || very standards-compliant implementation ||
