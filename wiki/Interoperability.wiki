@@ -3,6 +3,6 @@
 
 || *Vendor* || *Product* || *Versions tested* || *Interoperable*  || *Notes* ||
 || Tail-f || ConfD || 2.8 || Yes || compliant ||
-|| Cisco || IOS || 12.4 || Yes || poor compliance, but interoperable due to workarounds ||
+|| Cisco || IOS || 12.4 || Yes || non-compliant aspects, interoperable due to workarounds ||
 || liberouter || netopeer || 1.0 || Yes || compliant ||
 || Juniper || JUNOS  || - || ? || to test ||
