@@ -1,5 +1,6 @@
 from ncclient.transport import SSHSession
 from ncclient.operations import CloseSession
+from ncclient.util import PrintListener
 from ncclient.capabilities import CAPABILITIES
 from ncclient import operations
 
